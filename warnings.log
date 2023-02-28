@@ -1,0 +1,148 @@
+Warnings encountered during the last execution of ms3 review (v1.2.4)
+=====================================================================
+
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 10: The missing value in 'MeasureNumber/frameType' was replaced by '1', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 10: The missing value in 'MeasureNumber/text' was replaced by '10', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 379) parse_measures():
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 96: The missing value in 'MeasureNumber/text' was replaced by '94', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 96: The missing value in 'MeasureNumber/visible' was replaced by '0', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 98: The missing value in 'MeasureNumber/text' was replaced by '94', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 98: The missing value in 'MeasureNumber/visible' was replaced by '0', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 100: The missing value in 'MeasureNumber/text' was replaced by '94', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 100: The missing value in 'MeasureNumber/visible' was replaced by '0', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 103: The missing value in 'MeasureNumber/text' was replaced by '94', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 103: The missing value in 'MeasureNumber/visible' was replaced by '0', present in 'staff' [2].
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 94) ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 94 (timesig 3/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/4):
+	{95: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 96) ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 96 (timesig 3/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/4):
+	{97: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 103) ms3.Parse.debussy_images.l111-03_images_poissons -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 103 (timesig 3/4, act_dur 3/8) is completed by 1 incorrect duration (expected: 3/8):
+	{104: Fraction(3, 4)}

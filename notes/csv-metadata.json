@@ -5,12 +5,12 @@
       "@language": "en "
     }
   ],
-  "dc:title": "Note tables for debussy_images",
+  "dc:title": "Note tables for main",
   "dialect": {
     "delimiter": "\t"
   },
   "dc:description": "One feature matrix per score, containing one row per note head. Not every row represents an onset because note heads may be tied together (see column 'tied'). For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
-  "dc:created": "2023-02-28T13:57:29",
+  "dc:created": "2023-02-28T12:59:36",
   "dc:creator": [
     {
       "@context": "https://schema.org/",

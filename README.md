@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/debussy_images?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/563839835.svg)](https://zenodo.org/badge/latestdoi/563839835)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/debussy_images)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 

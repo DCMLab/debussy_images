@@ -1,67 +1,7 @@
-Warnings encountered during the last execution of ms3 review (v1.2.9)
-=====================================================================
+Warnings encountered during the last execution of ms3 review
+============================================================
 
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 4
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 4
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 1
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 2
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 1
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 1
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 1
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 1
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 2
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 2
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 5
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 2
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 2
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 2
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
-	Event already contained a 'Fingering_text': 2
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches --
 	mc 10: The missing value in 'MeasureNumber/frameType' was replaced by '1', present in 'staff' [2].
-WARNING  ms3.Parse.debussy_images.l111-01_images_cloches
+WARNING  ms3.Parse.debussy_images.l111-01_images_cloches --
 	mc 10: The missing value in 'MeasureNumber/text' was replaced by '10', present in 'staff' [2].

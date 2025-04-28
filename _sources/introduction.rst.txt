@@ -32,12 +32,13 @@ If you are only interested in the current version of the corpus, you can downloa
 Data Formats
 ============
 
-Each piece in this corpus is represented by four files with identical names, each in its own folder. For example, the first piece of the first set, *Lent, mélancolique et doux*, has the following files:
+Each piece in this corpus is represented by five files with identical names, each in its own folder. For example, the first piece of the first set, *Lent, mélancolique et doux*, has the following files:
 
--  ``MS3/l087-01_images_lent.mscx``: Uncompressed MuseScore file including the music and annotation labels.
--  ``notes/l087-01_images_lent.tsv``: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
--  ``measures/l087-01_images_lent.tsv``: A table with relevant information about the measures in the score.
--  ``harmonies/l087-01_images_lent.tsv``: A list of the included harmony labels (including cadences and phrases) with their positions in the score.
+-  ``MS3/l087-01_images_lent.mscx``: Uncompressed MuseScore 3.6.2 file including the music and annotation labels.
+-  ``notes/l087-01_images_lent.notes.tsv``: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+-  ``measures/l087-01_images_lent.measures.tsv``: A table with relevant information about the measures in the score.
+-  ``chords/l087-01_images_lent.chords.tsv``: A table containing layer-wise unique onset positions with the musical markup (such as dynamics, articulation, lyrics, figured bass, etc.).
+-  ``harmonies/l087-01_images_lent.harmonies.tsv``: A table of the included harmony labels (including cadences and phrases) with their positions in the score.
 
 Opening Scores
 --------------
